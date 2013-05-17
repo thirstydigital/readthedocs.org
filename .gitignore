@@ -1,4 +1,5 @@
 *.db
+*.egg-info
 *.pyc
 *.swp
 .DS_Store
